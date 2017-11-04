@@ -1,0 +1,46 @@
+body {
+    font-family: 'Karma';
+  }
+.Header {
+    text-align: center;
+}
+.table {
+  margin: auto;
+  display: table;
+  width: 100%;
+  padding-left:  200px;
+  padding-right: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.row {
+  display: table-row;
+}
+
+.Grid-quarter {
+    display: table-cell;
+    margin: 15px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+    text-align: center;
+}
+
+.Grid-quarter:hover {
+    border: 1px solid #777;
+}
+
+.Grid-quarter img {
+    width: 100%;
+    height: auto;
+}
+
+.container {
+  margin: auto;
+  padding-left:  200px;
+  padding-right: 200px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  text-align: center;
+}
