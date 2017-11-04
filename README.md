@@ -1,4 +1,4 @@
-#Open your webbrowser
-#Open a file 
-#choose index.html
+* Open your webbrowser 
+* Open a file 
+* Choose index.html 
 
